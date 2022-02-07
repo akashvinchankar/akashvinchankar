@@ -1,7 +1,7 @@
 <h1 align='center'>
   Hello  <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
-  </a> I'm Anchal 👩‍💻
+  </a> I'm Akash 👩‍💻
 </h1>
 <h4 align ="center">I am a software developer from Maharashtra :) </h4>
 <p align='center'>
