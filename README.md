@@ -15,18 +15,18 @@
   
 </p>
 
-<p>
+<p align="center">
   <a align="left" href="https://github.com/akashvinchankar">
-    <img height="195px" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashvinchankar&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=false" />
+    <img height="195px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashvinchankar&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=false" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a align="right" href="https://github.com/akashvinchankar">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=akashvinchankar&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&show_icons=true&count_private=true&layout=compact&hide_border=false" width="420"></a>
+  <img height="195px" width="400" src="https://github-readme-stats.vercel.app/api?username=akashvinchankar&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&show_icons=true&count_private=true&layout=compact&hide_border=false" width="420"></a>
   <br/>
 </p>
 
 <br/>
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=akashvinchankar&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/akashvinchankar)
+<!-- [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=akashvinchankar&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/akashvinchankar) -->
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=akashvinchankar&theme=react-dark&hide_border=true&area=true)
  <br/>
