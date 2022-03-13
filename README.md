@@ -1,4 +1,6 @@
 <h1 align='center'>
+  
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashvinchankar&label=Views&color=blue&style=plastic" alt="AkashVinchankar" /> </p>
   Hello  <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a> I'm Akash 👩‍💻
@@ -12,7 +14,6 @@
   <a href="https://www.instagram.com/aakashvinchankar/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashvinchankar&label=Views&color=blue&style=plastic" alt="AkashVinchankar" /> </p>
 </p>
 
 <p align="center">
