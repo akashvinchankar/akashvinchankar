@@ -8,11 +8,13 @@
 <h4 align ="center">I am a software developer from Maharashtra :) </h4>
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/akash-vinchankar/" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/aakashvinchankar/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  <h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/akashvinchankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashvinchankar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akash-vinchankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-vinchankar" height="30" width="40" /></a>
+<a href="https://instagram.com/aakashvinchankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakashvinchankar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/akashvinchankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akashvinchankar" height="30" width="40" /></a>
+</p>       
   </a>&nbsp;&nbsp;
 </p>
 
@@ -41,28 +43,18 @@
 
  <br/>
  
+ 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 
 <br/>
 <br/>
-<!-- <code><img height="60" width="50" src="https://www.naveedashfaq.me/img/java.png"></code> -->
-<code><img height="55" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<!-- <code><img height="60" width="50" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code> -->
+
+<code><img height="55" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
 <code><img height="55" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="55" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<code><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
+<code><img height="50" width="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
 <code><img height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
-<!-- <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> -->
-<br>
-  <h4><a href="https://leetcode.com/akashvinchankar/"> My leetcode handle</a></h4>
-<!--
-**code1511/code1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on React based project
-- 🌱 I’m currently learning Swift Programming
-- 📫 How to reach me:akashvinchankar@gmail.com
--->
+
