@@ -5,7 +5,7 @@
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a> I'm Akash 🧑🏻‍💻
 </h1>
-<h4 align ="center">I am a software developer from Maharashtra, India🇮🇳 :) </h4>
+<h4 align ="center">I'm a software developer from Maharashtra, India🇮🇳 :) </h4>
 <p align='center'>
   
   <h3 align="center">Connect with me:</h3>
