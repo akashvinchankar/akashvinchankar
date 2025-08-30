@@ -1,61 +1,80 @@
-<h1 align="center">Hi 👋, I'm Akash Vinchankar</h1>
-<h3 align="center">🚀 Frontend Developer | React.js | TypeScript | Next.js | UI Enthusiast</h3>
+<!-- Profile Header -->
+<h1 align="center">Hi, I'm Akash 👨🏻‍💻</h1>
+<p align="center">
+  Frontend Engineer • React / Next.js • TypeScript • Golang (Beginner) • PostgreSQL
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akashvinchankar&label=Profile%20Views&color=blue&style=flat" alt="akashvinchankar" />
+  <a href="https://akash-vinchankar.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://www.linkedin.com/in/akash-vinchankar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/akashvinchankar" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://leetcode.com/akashvinchankar" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1JxgxWRdWZvBs8TqqdMnvIezy5VromKh-/view" target="_blank"><img src="https://img.shields.io/badge/Resume-View-6f42c1?style=for-the-badge" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akashvinchankar&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 ---
 
-### 👨🏻‍💻 About Me  
-- 💻 4 years of experience in **Frontend Development**  
-- ⚡ Skilled in **React.js, Next.js, TypeScript, Tailwind, SCSS, JavaScript (ES6+)**  
-- 🌱 Currently learning **System Design & Advanced Web Performance**  
-- 📌 Building scalable, performant, and accessible **web apps**  
-- 🔗 Portfolio: [akash-vinchankar.netlify.app](https://akash-vinchankar.netlify.app/)  
+### 🚀 About Me
+- **Frontend-focused** engineer building fast, accessible, and resilient web apps.
+- Love **type-safe** code, **clean UI**, and **DX** improvements with reusable component systems.
+- Proficient with **React, Next.js, TypeScript, Redux**, styling systems, and **API-driven** UIs.
+- Exploring **Golang** for backend services and **PostgreSQL** for data-heavy features.
 
 ---
 
-### 🔗 Connect with me  
+### 🧰 Tech Stack
+**Frontend:**  
+`React` • `Next.js` (SSR/SSG) • `TypeScript` • `Redux/RTK` • `React Query` • `HTML5` • `CSS3` • `Tailwind CSS` • `Material UI` • `Shadcn/UI`
+
+**Backend / APIs:**  
+`Node.js` • `Golang (beginner)` • `REST` • `WebSockets`
+
+**Databases & Infra:**  
+`PostgreSQL` • `MongoDB` • `Prisma` • `Vercel` • `Docker (basics)`
+
+**Tooling & Quality:**  
+`Vite` • `Webpack` • `ESLint` • `Prettier` • `Jest` • `React Testing Library` • `Git / GitHub`
+
+---
+
+### 🏗️ Featured Work
+- **High-performance dashboards** with React + Redux + React Query (code-splitting, memoization, virtualization).
+- **Next.js apps** with SSR/SSG, dynamic routes, SEO, and **API integrations**.
+- **Design systems & component libraries** for consistent UI and rapid development.
+- **PostgreSQL-backed features** (auth, activity feeds, filtering/search) via REST APIs.
+- **Beginner Golang** services for simple APIs and worker jobs.
+
+> 🔗 More: **Portfolio** — https://akash-vinchankar.netlify.app
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
-<a href="https://twitter.com/akashvinchankar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://linkedin.com/in/akash-vinchankar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/aakashvinchankar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://leetcode.com/akashvinchankar"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akashvinchankar&show_icons=true&theme=transparent&hide_border=false" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashvinchankar&layout=compact&theme=transparent&hide_border=false&langs_count=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=akashvinchankar&theme=transparent&hide_border=false" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack  
-<p align="center">
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-</p>
+### ⚡ What I’m Up To
+- Building **Next.js** apps with **TypeScript** and **React Query** for robust data flows.
+- Leveling up **Golang** + **PostgreSQL** for services and tooling.
+- Using **AI as a co-pilot** for code reviews, refactors, and faster prototyping.
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=akashvinchankar&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashvinchankar&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashvinchankar&theme=radical" />
-</p>
+### 🤝 Let’s Connect
+- 📫 **Email:** akashvinchankar@gmail.com   
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/akash-vinchankar  
+- 🧭 **Portfolio:** https://akash-vinchankar.netlify.app  
+- 📝 **Resume:** https://drive.google.com/file/d/1JxgxWRdWZvBs8TqqdMnvIezy5VromKh-/view
 
 ---
-
-### 🚀 Featured Projects  
-- 🔗 [Portfolio Website](https://akash-vinchankar.netlify.app/)  
-- 📦 [GitHub Projects](https://github.com/akashvinchankar)  
-
----
-
-✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
